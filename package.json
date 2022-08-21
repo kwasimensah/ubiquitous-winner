@@ -1,5 +1,8 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
