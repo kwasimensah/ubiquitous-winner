@@ -10,7 +10,6 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "downlevelIteration": true,
-    "noResolve": true,
     "composite": true,
     "rootDir": ".",
     "baseUrl": ".",
